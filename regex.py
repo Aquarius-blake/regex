@@ -1,7 +1,8 @@
 import re
 
-def Check	        	                	        	                            	                            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-	
+def Check	        	                	        	                            	                            	                    document.documentElement.classList.add('dark');
+	        	                	        	                            	                            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+
 }	        	                	        	                            	            case 'system':
 		        	                	        	                            switch (localStorage.theme) {
 
