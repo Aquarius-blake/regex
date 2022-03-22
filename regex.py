@@ -1,7 +1,9 @@
 import re
 
-def Check	        	            	        if (localStorage.theme === 'system') {
+def Check	        	            	        	            if (e.matches) {
 	
+}	        	            	        if (localStorage.theme === 'system') {
+
 }	        	            window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
 
 })	        	        toLightMode();
