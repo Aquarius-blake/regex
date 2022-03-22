@@ -1,6 +1,8 @@
 import re
 
-def Check	        	                	        	                            	                            	                    document.documentElement.classList.add('dark');
+def Check	        	                	        	                            	                            	                                    } else {
+	
+}	        	                	        	                            	                            	                    document.documentElement.classList.add('dark');
 	        	                	        	                            	                            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
 
 }	        	                	        	                            	            case 'system':
