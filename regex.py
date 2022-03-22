@@ -1,7 +1,16 @@
 import re
 
-def Check	        	                	        	                            switch (localStorage.theme) {
-	
+def Check	        	                	        	                            	                            	                                    	                                                    document.documentElement.setAttribute('color-theme', 'system');
+	        	                	        	                            	                            	                                    	                                    }
+	        	                	        	                            	                            	                                    	                    document.documentElement.classList.remove('dark');
+	        	                	        	                            	                            	                                    } else {
+
+}	        	                	        	                            	                            	                    document.documentElement.classList.add('dark');
+	        	                	        	                            	                            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+
+}	        	                	        	                            	            case 'system':
+		        	                	        	                            switch (localStorage.theme) {
+
 }
 	        	                	        	                    }
 	        	                	        	            localStorage.theme = 'system';
