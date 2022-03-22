@@ -1,6 +1,8 @@
 import re
 
-def Check
+def Check	        	                	        	                            	                            	                                    	                                                                                                                                                                                        	                                        id="skip-to-content-link"
+	        	                	        	                            	                            	                                    	                                                                                                                                                                                        	                                    <a
+
 	        	                	        	                            	                            	                                    	                                                                                                                                                                                        	                                >
 	        	                	        	                            	                            	                                    	                                                                                                                                                                                        	                                class="language-php h-full w-full font-sans text-gray-900 antialiased"
 	        	                	        	                            	                            	                                    	                                                                                                                                                                                        	                            }"
