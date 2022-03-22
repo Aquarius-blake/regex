@@ -1,6 +1,7 @@
 import re
 
-def Check	        	                	        	                            	                            	                                    	                                                                                                                                                                                    </head>head>
+def Check	        	                	        	                            	                            	                                    	                                                                                                                                                                                    <body
+	        	                	        	                            	                            	                                    	                                                                                                                                                                                    </head>head>
 	        	                	        	                            	                            	                                    	                                                                                                                                                                                        </script>script>
 	        	                	        	                            	                            	                                    	                                                                                                                                                                                            updateTheme();
 
