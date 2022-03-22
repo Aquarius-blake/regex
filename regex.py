@@ -1,6 +1,9 @@
 import re
 
-def Check	        	            	        	            	                document.documentElement.classList.add('dark');
+def Check	        	            	        	            	                            	                document.documentElement.classList.remove('dark');
+	        	            	        	            	                            } else {
+
+}	        	            	        	            	                document.documentElement.classList.add('dark');
 	        	            	        	            if (e.matches) {
 
 }	        	            	        if (localStorage.theme === 'system') {
