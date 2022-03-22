@@ -1,6 +1,7 @@
 import re
 
-def Check	        	                	        	            localStorage.theme = 'system';
+def Check	        	                	        	                    }
+	        	                	        	            localStorage.theme = 'system';
 	        	                	        if (!('theme' in localStorage)) {
 
 }	        	                function updateTheme() {
