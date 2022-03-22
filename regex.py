@@ -8,4 +8,6 @@ def CheckValidHexaCode(str):
 				if(str == None):
 							return False
 
-							
+								if(re.search(p, str)):
+											return True
+											
