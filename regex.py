@@ -1,6 +1,7 @@
 import re
 
-def Check	        	            	        	            	                            	                document.documentElement.classList.remove('dark');
+def Check	        	            	        	            	                            	                            }
+	        	            	        	            	                            	                document.documentElement.classList.remove('dark');
 	        	            	        	            	                            } else {
 
 }	        	            	        	            	                document.documentElement.classList.add('dark');
