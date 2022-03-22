@@ -1,6 +1,7 @@
 import re
 
-def Check	        	                	        	                            	                            	                                    	                                                                                                                                                            document.documentElement.setAttribute('color-theme', 'light');
+def Check	        	                	        	                            	                            	                                    	                                                                                                                                                                            break;
+	        	                	        	                            	                            	                                    	                                                                                                                                                            document.documentElement.setAttribute('color-theme', 'light');
 	        	                	        	                            	                            	                                    	                                                                                                                                            case 'light'                document.documentElement.classList.remove('dark');
 
 	        	                	        	                            	                            	                                    	                                                                                                                                break;
