@@ -7,4 +7,5 @@ def CheckValidHexaCode(str):
 
 				if(str == None):
 							return False
+
 							
