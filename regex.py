@@ -1,7 +1,9 @@
 import re
 
-def Check	        	                function updateTheme() {
+def Check	        	                	        if (!('theme' in localStorage)) {
 	
+}	        	                function updateTheme() {
+
 }
 	        	            	        	            	                            	                                        });
 	        	            	        	            	                            	                                    }
