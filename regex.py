@@ -1,6 +1,7 @@
 import re
 
-def Check
+def Check	if(re.search(p, str)):
+	
 		return False
 	if(str == None):
 
