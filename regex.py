@@ -1,6 +1,7 @@
 import re
 
-def Check	        	                	        	                            	                            	                                    	                                                    document.documentElement.setAttribute('color-theme', 'system');
+def Check	        	                	        	                            	                            	                                    	                                                                    break;
+	        	                	        	                            	                            	                                    	                                                    document.documentElement.setAttribute('color-theme', 'system');
 	        	                	        	                            	                            	                                    	                                    }
 	        	                	        	                            	                            	                                    	                    document.documentElement.classList.remove('dark');
 	        	                	        	                            	                            	                                    } else {
