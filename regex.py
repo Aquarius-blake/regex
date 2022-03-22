@@ -1,7 +1,8 @@
 import re
 
-def Check	        	            	        	            if (e.matches) {
-	
+def Check	        	            	        	            	                document.documentElement.classList.add('dark');
+	        	            	        	            if (e.matches) {
+
 }	        	            	        if (localStorage.theme === 'system') {
 
 }	        	            window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
