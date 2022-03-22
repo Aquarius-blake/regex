@@ -11,4 +11,5 @@ def CheckValidHexaCode(str):
 								if(re.search(p, str)):
 											return True
 												else:
-													
+															return False
+															
