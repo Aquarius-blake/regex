@@ -5,4 +5,5 @@ def CheckValidHexaCode(str):
 
 			p = re.compile(regex)
 
-			
+				if(str == None):
+					
