@@ -1,6 +1,7 @@
 import re
 
-def Check	        	                	        	                            	                            	                                    	                                    }
+def Check	        	                	        	                            	                            	                                    	                                                    document.documentElement.setAttribute('color-theme', 'system');
+	        	                	        	                            	                            	                                    	                                    }
 	        	                	        	                            	                            	                                    	                    document.documentElement.classList.remove('dark');
 	        	                	        	                            	                            	                                    } else {
 
