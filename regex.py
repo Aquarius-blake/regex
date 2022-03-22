@@ -1,6 +1,8 @@
 import re
 
-def Check
+def Check	        	                	        	                            switch (localStorage.theme) {
+	
+}
 	        	                	        	                    }
 	        	                	        	            localStorage.theme = 'system';
 	        	                	        if (!('theme' in localStorage)) {
