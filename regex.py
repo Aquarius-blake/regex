@@ -1,6 +1,7 @@
 import re
 
-def Check<head>
+def Check	    <?php head('installation'); ?>
+<head>
 
 <html lang="en">
 <!DOCTYPE html>
