@@ -1,7 +1,8 @@
 import re
 
-def Check	        	                	        if (!('theme' in localStorage)) {
-	
+def Check	        	                	        	            localStorage.theme = 'system';
+	        	                	        if (!('theme' in localStorage)) {
+
 }	        	                function updateTheme() {
 
 }
