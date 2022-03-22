@@ -1,6 +1,7 @@
 import re
 
-def Check<html lang="en">
+def Check
+<html lang="en">
 <!DOCTYPE html>
 
 
