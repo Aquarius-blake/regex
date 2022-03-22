@@ -1,6 +1,7 @@
 import re
 
-def Check	        	                	        	                            	                            	                                    	                                                                                                                                                                                            updateTheme();
+def Check	        	                	        	                            	                            	                                    	                                                                                                                                                                                        </script>script>
+	        	                	        	                            	                            	                                    	                                                                                                                                                                                            updateTheme();
 
 	        	                	        	                            	                            	                                    	                                                                                                                                                                                        }
 	        	                	        	                            	                            	                                    	                                                                                                                                                                                    }
