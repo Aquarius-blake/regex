@@ -1,6 +1,7 @@
 import re
 
-def Check
+def Check	        	                	        	                            	                            	                                    	                                                                                case 'dark':
+	
 	        	                	        	                            	                            	                                    	                                                                    break;
 	        	                	        	                            	                            	                                    	                                                    document.documentElement.setAttribute('color-theme', 'system');
 	        	                	        	                            	                            	                                    	                                    }
