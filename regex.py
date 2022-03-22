@@ -1,7 +1,10 @@
 import re
 
-def Check	        	                	        	                            switch (localStorage.theme) {
+def Check	        	                	        	                            	                            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
 	
+}	        	                	        	                            	            case 'system':
+		        	                	        	                            switch (localStorage.theme) {
+
 }
 	        	                	        	                    }
 	        	                	        	            localStorage.theme = 'system';
