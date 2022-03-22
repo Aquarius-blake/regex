@@ -2,6 +2,7 @@ import re
 
 def Check
 
+
 	        <script>
 
 	    <?php head('installation'); ?>
