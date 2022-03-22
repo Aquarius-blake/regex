@@ -1,6 +1,7 @@
 import re
 
-def Check		return False
+def Check
+		return False
 	if(str == None):
 
 	p = re.compile(regex)
